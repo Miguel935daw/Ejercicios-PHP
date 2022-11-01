@@ -1,0 +1,7 @@
+<?php
+    $lunes = array("Empresa e Iniciativa Emprendedora","Empresa e Iniciativa Emprendedora","Despliegue de Aplicacione Web","Despliegue de Aplicacione Web","Desarrollo de Aplicaciones Web en Entorno Servidor","Desarrollo de Aplicaciones Web en Entorno Servidor");
+    $martes = array("Desarrollo de Aplicaciones Web en Entorno Servidor","Desarrollo de Aplicaciones Web en Entorno Servidor","Despliegue de Aplicacione Web","Despliegue de Aplicacione Web","Diseño de Interfaces Web","Diseño de Interfaces Web");
+    $miercoles = array("Desarrollo de Aplicaciones Web en Entorno Servidor","Desarrollo de Aplicaciones Web en Entorno Servidor","Desarrollo de Aplicaciones Web en Entorno Cliente","Empresa e Iniciativa Emprendedora","Desarrollo de Aplicaciones Web en Entorno Cliente","Desarrollo de Aplicaciones Web en Entorno Cliente");
+    $jueves = array("Inglés","Desarrollo de Aplicaciones Web en Entorno Servidor","Desarrollo de Aplicaciones Web en Entorno Servidor","Empresa e Iniciativa Emprendedora","Diseño de Interfaces Web","Diseño de Interfaces Web");
+    $viernes = array("Inglés","Desarrollo de Aplicaciones Web en Entorno Cliente","Diseño de Interfaces Web","Diseño de Interfaces Web","Desarrollo de Aplicaciones Web en Entorno Cliente","Desarrollo de Aplicaciones Web en Entorno Cliente");
+?>
